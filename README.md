@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Jomar Cardines</h1>
 <h3 align="center">Student from Philippines</h3>
 
+<img align ="right" alt="coding" width="400" src="https://images.app.goo.gl/7JhZuugzi7GmLKyN6">
+
 - I'm currently working on my own web **StarX Web**
 
 - I'm currently learning **Phyton and C++.**

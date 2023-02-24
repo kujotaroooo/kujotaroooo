@@ -9,7 +9,7 @@
 
 
 
-- I'm currently working on my own web **StarX Web**
+- I'm currently working on my **Portfolio**
 
 - I'm currently learning **Phyton and C++.**
 

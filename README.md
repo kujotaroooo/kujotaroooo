@@ -12,6 +12,8 @@
 
 
 **I NEED MONEY**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Vcs+osd+mono&weight=900&duration=850&pause=850&color=359037&width=435&lines=IF+YOU+WANT+IT;WORK+FOR+IT)](https://git.io/typing-svg)
 - I'm currently working on my **Portfolio**
 
 - I'm currently learning **Phyton and C++.**

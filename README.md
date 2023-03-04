@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=680&center=true&vCenter=true&width=435&lines=The+sorrowful+gust+of+wind;that+blew+right+between+you+and+me)](https://git.io/typing-svg)
 <img align ="right" alt="Coding" width="600" src="main-qimg-eae18a1695273082d5e532ed2358365a (1).gif">
 
 

@@ -30,5 +30,5 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=hanzzakino&show_icons=true&locale=en&layout=compact&theme=github_dark&count_private=true&hide_border=true&hide=html,css,scss)
 
- **🏆 GitHub Trophies**
+ <h1 align = "center"> 🏆 GitHub Trophies </h1>
  **![](https://github-profile-trophy.vercel.app/?username=whilmarbitoco&theme=radical&no-frame=false&no-bg=true&margin-w=4)**

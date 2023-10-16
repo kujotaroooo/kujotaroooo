@@ -4,13 +4,13 @@
 
 
 
-<img align ="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ae162b7703495ca6adf9c48880d6688e2bf2d1ff33db192d6e6c10c69d23e655/68747470733a2f2f7468756d62732e6766796361742e636f6d2f436f6d706574656e74466172666c756e674265726765727069636172642d6d61782d316d622e676966">
 
 
 
 
 
-**I NEED MONEY**
+
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Vcs+osd+mono&weight=900&duration=850&pause=850&color=359037&width=435&lines=IF+YOU+WANT+IT;WORK+FOR+IT)
 - I'm currently working on my **Portfolio**

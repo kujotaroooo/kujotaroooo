@@ -4,6 +4,7 @@
 
 
 
+![image](https://github.com/kujotaroooo/kujotaroooo/assets/126190522/6ffbb3b0-ee81-4669-9bee-c3d386c4ba0b)
 
 
 

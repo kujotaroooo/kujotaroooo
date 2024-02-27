@@ -13,7 +13,7 @@
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Vcs+osd+mono&weight=900&duration=850&pause=850&color=359037&width=435&lines=IF+YOU+WANT+IT;WORK+FOR+IT)
-
+![](https://komarev.com/ghpvc/?username=kujotaroooo)
 
 - I learn new things everyday.
 

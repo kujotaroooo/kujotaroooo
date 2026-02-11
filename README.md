@@ -1,3 +1,4 @@
 
-![KikisDeliveryServiceKikiGIF](https://github.com/sSquishy/sSquishy/assets/126607972/947e6602-5f27-4ae8-a0e2-7483428fc0f5)
+![KikisDeliveryServiceKikiGIF](![17708310179532272323096199258290](https://github.com/user-attachments/assets/40a98c73-d3bd-40f4-8e0b-ca53f2907d34)
+)
  
